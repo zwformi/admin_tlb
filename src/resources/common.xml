@@ -1,0 +1,26 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<host>
+
+	tulingyun sso相关  
+	<param key="path" value="192.168.33.177" />
+	<param key="port" value="60" />
+	<param key="ssoInterface" value="login.aspx" />
+	<param key="returnUrl" value="127.0.0.1:8080/login/callback.json" />
+	<param key="CheckAuthedToken" value="/CheckAuthedToken.ashx" />
+
+	<param key="hostName" value="TulingyunManager" />
+	<param key="registerPath" value="192.168.33.177" />
+	<param key="registerPort" value="60" />
+	<param key="registerInterface" value="/ServerRegisterSSOUser.ashx" />
+	<param key="defalutPage" value="/default.aspx" />
+	<param key="updateInterface" value="/UpdateSSOUser.ashx" />
+	<param key="passwordResetInterface" value="/ServerResetPassword.ashx" />
+	<param key="checkAliveInterface" value="CheckAlive.ashx" />
+	<param key="privateToken" value="TulingyunManager" />
+
+	crm登陆相关  
+	<param key="asyncPath" value="192.168.33.177" />
+	<param key="asyncPort" value="80" />
+	<param key="AccountChangedInterface" value="/ISV/SyncContact/AccountChanged.ashx" />
+	<param key="ContactChangedInterface" value="/ISV/SyncContact/ContactChanged.ashx" />
+</host>  -->

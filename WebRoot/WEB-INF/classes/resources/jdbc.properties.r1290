@@ -1,0 +1,10 @@
+
+jdbc.driverClassName=com.mysql.jdbc.Driver
+#db tulingbuy
+jdbc.url=jdbc\:mysql\://192.168.33.177\:3306/tulingbuy?useUnicode\=true&characterEncoding\=utf8
+jdbc.username=root
+jdbc.password=Password@1
+#tulingyun
+jdbc.yun_url=jdbc\:mysql\://192.168.33.177\:3306/tulingyun?useUnicode\=true&characterEncoding\=utf8
+jdbc.yun_username=root
+jdbc.yun_password=Password@1
